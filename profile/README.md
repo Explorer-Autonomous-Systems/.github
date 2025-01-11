@@ -1,12 +1,18 @@
-## Hi there 👋
+![EAS_LOGO](https://project-eas.com/gallery/websitelogo.png?ts=1736361768)
+## Welcome to Explorer Autonomous Systems
+- Greenwood, South Carolina
+- Est: 2022
+- Description: Explorer Autonomous Systems develops purpose built autonomous vehicles designed for public safety, industrial, and scientific use. We are currently rolling out Explorer One, a purpose
+built search and rescue boat using a hybrid gasoline electric drivetrain.
+##
 
-<!--
+## Stay Connected!
+Visit our website!
+- project-eas.com
 
-**Here are some ideas to get you started:**
+Follow our Instagram!
+- instagram.com/explorer_autonomous_project
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Subscribe to our YouTube channel!
+- youtube.com/@project-eas
+##
