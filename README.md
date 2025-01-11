@@ -1,3 +1,5 @@
+![EAS_LOGO](https://project-eas.com/gallery/websitelogo.png?ts=1736361768)
+##
 ## Welcome to Explorer Autonomous Systems
 - Greenwood, South Carolina
 - Est: 2022
@@ -5,7 +7,6 @@
 built search and rescue boat using a hybrid gasoline electric drivetrain.
 ##
 ## Stay Connected!
-##
 Visit our website!
 - project-eas.com
 Follow our Instagram!
